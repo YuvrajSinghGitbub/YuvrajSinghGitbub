@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuvrajSinghGitbub
-- 👀 I’m interested in building cool stuff
+- 👀 I’m interested in building learing about the web and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on, well currently none
 - 📫 How to reach me - email at yuvisingh478@gmail.com
