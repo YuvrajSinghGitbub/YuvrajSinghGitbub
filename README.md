@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @YuvrajSinghGitbub
 - 👀 I’m interested in learning about the web and AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on web stuff and general problem solving
+- 🌱 Bachelors in Science, AI and ML
+- 💞️ Love
+  -  solveing programming problem
+  -  learning about stuff by building stuff
 - 📫 How to reach me [Yuvraj Singh](mailto:yuvisingh478@gmail.com)
 <!---
 YuvrajSinghGitbub/YuvrajSinghGitbub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
