@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuvrajSinghGitbub
-- 👀 I’m interested in learning about the web and AI
+- 👀 Just an eternal student
 - 🌱 Bachelors in Science, AI and ML
 - 💞️ Love
   -  solveing programming problems
